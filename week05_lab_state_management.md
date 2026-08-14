@@ -503,6 +503,10 @@ class HomePage extends StatelessWidget {
 ```image
 
 ```
+<img width="356" height="753" alt="Screenshot 2026-08-14 155004" src="https://github.com/user-attachments/assets/fb80e4f1-d1bb-44d3-9aa2-302f2167644b" />
+<img width="354" height="768" alt="Screenshot 2026-08-14 155018" src="https://github.com/user-attachments/assets/ecae0004-e37a-406f-b86a-d3d516fd4199" />
+<img width="348" height="806" alt="Screenshot 2026-08-14 155031" src="https://github.com/user-attachments/assets/db6be443-b2ab-459e-8e4a-1436b1fe4a16" />
+<img width="349" height="813" alt="Screenshot 2026-08-14 155048" src="https://github.com/user-attachments/assets/357398ff-9b75-4660-81b6-286712130f2a" />
 
 ---
 
@@ -692,8 +696,10 @@ class HomePage extends ConsumerWidget {
 ```
 
 > ✅ **Checkpoint 4.1** รันแอปด้วย `flutter run` (หรือกด F5 ใน VS Code) แล้วทดสอบกดปุ่ม "บันทึก" ที่สินค้าชิ้นใดก็ได้ ตรวจว่าตัวเลข ❤️ ที่ AppBar เพิ่มขึ้นถูกต้อง ถ่ายภาพหน้าจอแนบส่ง
+<img width="352" height="804" alt="Screenshot 2026-08-14 155545" src="https://github.com/user-attachments/assets/f6707731-debc-4ec7-9dd2-e6297849906e" />
 
 > ✅ **Checkpoint 4.2** เขียนตารางเปรียบเทียบสั้น ๆ ว่าตอนแปลงจาก Provider เป็น Riverpod ต้องเปลี่ยนอะไรบ้าง (เช่น `ChangeNotifier` → `StateNotifier`, `StatelessWidget` → `ConsumerWidget`, `context.watch` → `ref.watch`) อย่างน้อย 4 คู่เทียบ
+<img width="518" height="590" alt="Screenshot 2026-08-14 155924" src="https://github.com/user-attachments/assets/b8854886-99bb-4bc9-97d4-170d022baca0" />
 
 ---
 
